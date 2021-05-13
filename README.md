@@ -25,7 +25,7 @@ Output:
 <!-- blank line -->
         
         <figure class="video_container">
-           <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+           <video controls="true" allowfullscreen="true" poster="thumbnail.jpg">
               <source src="https://github.com/madhavjk/Regex_Color_Detection/blob/main/Color%20Detection.mp4" type="video/mp4">
            </video>
         </figure>
