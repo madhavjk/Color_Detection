@@ -22,13 +22,9 @@
 
 Output:
 
-<!-- blank line -->
-        
-        <figure class="video_container">
-           <video controls="true" allowfullscreen="true" poster="thumbnail.jpg">
-              <source src="https://github.com/madhavjk/Regex_Color_Detection/blob/main/Color%20Detection.mp4" type="video/mp4">
-           </video>
-        </figure>
-<!-- blank line -->
+
+https://user-images.githubusercontent.com/42112240/118194097-7525af80-b466-11eb-9a51-f02bf7a8151b.mp4
+
+
 
 
