@@ -18,4 +18,8 @@
         
         python color.py --image colorpic.jpg
         
-5.  Now, double-click anywhere on the image and you will get color and pixel value of the point.        
+5.  Now, double-click anywhere on the image and you will get color and pixel value of the point.  
+
+Output:
+
+
