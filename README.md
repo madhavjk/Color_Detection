@@ -1,5 +1,6 @@
 
-https://user-images.githubusercontent.com/42112240/118228289-8c38c180-b4a7-11eb-9170-09e6ce3d6a69.mp4
+![Intro](https://user-images.githubusercontent.com/42112240/118228456-d8840180-b4a7-11eb-9242-01a0e285b1f6.jpg)
+
 
 # ***Color Detection***
 
