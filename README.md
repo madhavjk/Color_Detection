@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/42112240/118228289-8c38c180-b4a7-11eb-9170-09e6ce3d6a69.mp4
+
 # ***Color Detection***
 
 **Project's Brief Details:**  In this color detection Python project, the aim is to build an application through which you can automatically get the name of the color by clicking on them in the picture. So for this, we will have a data file that contains the color name and its values. Then we will calculate the distance from each color and find the shortest one.
@@ -16,7 +19,7 @@
         
 4.  Run the script
         
-        python color.py --image colorpic.jpg
+        python color.py --image img.jpg
         
 5.  Now, double-click anywhere on the image and you will get color and pixel value of the point.  
 
@@ -25,7 +28,10 @@ Output:
 
 
 
-https://user-images.githubusercontent.com/42112240/118227531-50e9c300-b4a6-11eb-9420-35723337a063.mp4
+https://user-images.githubusercontent.com/42112240/118228307-95299300-b4a7-11eb-8703-7ad78c6d4a11.mp4
+
+
+
 
 
 
